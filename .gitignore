@@ -1,0 +1,5 @@
+.terraform/ # add other Terraform ignores if you like
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfstate*
